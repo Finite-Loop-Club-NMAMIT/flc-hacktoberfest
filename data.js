@@ -1,6 +1,6 @@
 export const Data =[
     {
-        name: "Nagaraj Pandith",
+        name: "Nagaraj Pandit",
         username: "nagarajpandith",
         branch: "CSE",
         year: "3rd",

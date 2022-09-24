@@ -47,4 +47,10 @@ export const Data =[
         branch: "CSE",
         year: "4th",
     },
+    {
+        name: "nagrajpandith",
+        username: "fireship-io",
+        branch: "CSE",
+        year: "4th",
+    },
 ];
